@@ -1,7 +1,6 @@
 
 # Exceptional Phone Numbers
 
-
 # PhoneNumberFactory
 
 * **Purpose** - to demonstrate basic exception handling and logging.
